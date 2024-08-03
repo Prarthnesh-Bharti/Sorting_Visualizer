@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Sorting Visualizer
 
@@ -26,5 +25,5 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 - CSS
 - JavaScript
 =======
-# Sorting_Visualizer
->>>>>>> 601ea5c5eb0bd930dec93d9e3ca8dd5efe15c9d2
+
+
