@@ -24,6 +24,6 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 - HTML
 - CSS
 - JavaScript
-=======
+
 
 
